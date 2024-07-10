@@ -6,6 +6,9 @@ body{
     font-family: 'roboto',sans-serif;
     box-sizing: border-box;
 }
+
+/*Header Style*/
+
 .header{
     background-color: #1F2937;
     display: flex;
@@ -29,4 +32,43 @@ body{
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
+}
+
+/*hero style*/
+
+.hero{
+    background-color: #1F2937;
+    height: 60vh;
+    padding: 20px 200px;
+    display: flex;
+    align-items: center
+}
+.hero-text{
+    width: 500px;
+    height: 250px;
+    margin-right: 16px;
+}
+.hero-text h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+    margin-bottom: 12px;
+}
+.hero-text p{
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.signup-btn{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 20px;
+    border: 0;
+    padding: 8px 40px;
+    border-radius: 8px;
+}
+.hero-image img{
+    width: 400px;
+    height: 250px;
 }
