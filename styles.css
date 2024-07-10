@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'roboto',sans-serif;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #1F2937;
+    display: flex;
+    padding: 20px 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 900;
+}
+.header-links ul{
+    display: flex;
+    gap: 20px;
+}
+.header-links li{
+    list-style: none;
+}
+.header-links a{
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
