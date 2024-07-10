@@ -1,2 +1,2 @@
 # Landing-Page
-A CSS/HTML foundation course project from The Odin Project 
+The odin Project CSS/HTML foundation course landing page project 
