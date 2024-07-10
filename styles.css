@@ -118,3 +118,26 @@ body{
     font-size: 24px;
     font-weight: bold;
 }
+.signup-container{
+    margin: 100px 200px;
+    padding: 42px 70px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+.s-text{
+    color: #F9FAF8;
+}
+.s-text p{
+    font-weight: 300;
+}
+.s-button{
+    padding: 0 32px;
+    background-color: transparent;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #F9FAF8;
+    border-radius: 12px;
+}
